@@ -12,4 +12,4 @@ Seventh period: BHP
 Eight period: Algebra 2<li>
 
 ### Student
-## Highschool of telecommunicationsarts and technology
+## Highschool of telecommunications arts and technology
