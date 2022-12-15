@@ -2,5 +2,5 @@
 ### aydae5499@hstat.org
 
 
-### student
-## highschool of telecommunicationsarts and technology 
+### Student
+## Highschool of telecommunicationsarts and technology
