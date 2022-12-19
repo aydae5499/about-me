@@ -1,7 +1,6 @@
 # Ayda Eltoukhy
 ### aydae5499@hstat.org
 ### Schedule
-`kamila`
 
 *First period*: Global history
 *Second period*: Sep10
